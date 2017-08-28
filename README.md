@@ -1,1 +1,1 @@
-# find-your-dialogue
+A user can query with a dialogue or can update the database by giving a complete transcript(or .srt file)
